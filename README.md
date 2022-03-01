@@ -1,1 +1,2 @@
-# azore-mvc-php-framework
+# Azore
+A simple PHP MVC framework
